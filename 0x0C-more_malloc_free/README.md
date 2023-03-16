@@ -172,4 +172,3 @@ You are allowed to use more than 5 functions in your file
 		
 You can use bc (man bc) to check your results.
 
-
